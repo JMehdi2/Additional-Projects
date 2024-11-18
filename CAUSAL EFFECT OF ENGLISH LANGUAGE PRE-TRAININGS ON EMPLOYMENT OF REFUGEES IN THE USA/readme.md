@@ -10,6 +10,6 @@ This mini project aims to measure the effect of English pre-training programs on
 
 
 #### Notes: 
-- This mini-project was completed during the fall of 2022 as part of the Economic Analysis master's program at **Corvinus University of Budapest**.
+- This mini-project was completed during the fall semester of 2022 as part of the Economic Analysis master's program at **Corvinus University of Budapest**.
 - Minor modifications were made before sharing the report.
 
